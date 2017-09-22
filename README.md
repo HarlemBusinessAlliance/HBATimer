@@ -71,7 +71,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Omarwali Jones** - *Initial work* - [Omarwali](https://github.com/Omarwali)
-* **Mark Nyon** - *Initial documentation & organization* - [Omarwali](https://github.com/trystant)
+* **Mark Nyon** - *Initial documentation & organization* - [Trystant](https://github.com/trystant)
 
 See also the list of [contributors](https://github.com/HarlemBusinessAlliance/contributors) who participated in this project.
 
