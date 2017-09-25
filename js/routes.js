@@ -22,15 +22,21 @@ angular.module('app.routes', [])
   })
 
   .state('logIn', {
-    url: '/page5',
+    url: '/log_in',
     templateUrl: 'templates/logIn.html',
     controller: 'logInCtrl'
   })
 
-  .state('page', {
-    url: '/page6',
-    templateUrl: 'templates/page.html',
-    controller: 'pageCtrl'
+  .state('taskManager', {
+    url: '/task_manager',
+    templateUrl: 'templates/taskManager.html',
+    controller: 'taskManagerCtrl'
+  })
+
+  .state('timer', {
+    url: '/page7',
+    templateUrl: 'templates/timer.html',
+    controller: 'timerCtrl'
   })
 
 $urlRouterProvider.otherwise('/landing_page')
